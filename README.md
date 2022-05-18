@@ -22,11 +22,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-orange?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-square&logo=javascript&logoColor=white"/>
+  
+  
 </div>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwyeol)](https://solved.ac/lwyeol)
+<br>
 
 <div>
-  <img align="right" src="http://mazandi.herokuapp.com/api?handle=lwyeol&theme=dark"/>
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwyeol)](https://solved.ac/lwyeol)
+  <img src="http://mazandi.herokuapp.com/api?handle=lwyeol&theme=dark"/>
+
 </div>
