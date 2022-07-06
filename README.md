@@ -4,7 +4,7 @@
 
 <br><br>
 
-<h2 style="text-align:center">💻Study</h2>
+<h2>💻Study</h2>
     
 <div style="text-align:center">    
   <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white"/>
@@ -14,7 +14,7 @@
 
 <br>
 
-<h2 style="text-align:center">🚀My BaekJoon Rating</h2>
+<h2>🚀My BaekJoon Rating</h2>
 
 <div>
 
@@ -23,7 +23,6 @@
   
 </div>
 
-
-<h2 style="text-align:center">🚀My GitHub Rating</h2>
+<h2>🚀My GitHub Rating</h2>
 
 ![w00ye0l's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00ye0l&count_private=true)
