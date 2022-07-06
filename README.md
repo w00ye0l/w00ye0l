@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
+
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fw00ye0l&count_bg=%2399C8FF&title_bg=%231B22B5&icon=waze.svg&icon_color=%23FFFFFF&title=VISITOR&edge_flat=false)](https://hits.seeyoufarm.com)
 
   <h2>💻Study</h2>
@@ -28,6 +29,8 @@ Here are some ideas to get you started:
 <br>
 
 <div>
+
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwyeol)](https://solved.ac/lwyeol)
   <img src="http://mazandi.herokuapp.com/api?handle=lwyeol&theme=dark"/>
+  
 </div>
