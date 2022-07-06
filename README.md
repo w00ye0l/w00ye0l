@@ -1,11 +1,12 @@
 <h1> WOOYEOL 👋 </h1>
 
-<div>
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fw00ye0l&count_bg=%2399C8FF&title_bg=%231B22B5&icon=waze.svg&icon_color=%23FFFFFF&title=VISITOR&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  <h2>💻Study</h2>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fw00ye0l&count_bg=%23CACACA&title_bg=%23C27CFF&icon=googlefit.svg&icon_color=%23AE00FF&title=VISITOR&edge_flat=true" align="right"/></a>
+
+<h2>💻Study</h2>
     
+<div>
   <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-orange?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-square&logo=javascript&logoColor=white"/>
