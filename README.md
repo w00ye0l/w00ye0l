@@ -19,3 +19,7 @@
   <img src="http://mazandi.herokuapp.com/api?handle=lwyeol&theme=dark"/>
   
 </div>
+
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+</div>
