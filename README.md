@@ -13,6 +13,8 @@
 
 <br>
 
+<h2>🚀My BaekJoon Rating</h2>
+
 <div>
 
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwyeol)](https://solved.ac/lwyeol)
@@ -20,6 +22,8 @@
   
 </div>
 
+
+<h2>🚀My GitHub Rating</h2>
 
 ![w00ye0l's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00ye0l&count_private=true)
 
