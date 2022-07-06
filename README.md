@@ -20,6 +20,6 @@
   
 </div>
 
-<div>
-  ![w00ye0l's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00ye0l&count_private=true)
-</div>
+
+![w00ye0l's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00ye0l&count_private=true)
+
