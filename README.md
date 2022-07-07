@@ -17,11 +17,11 @@
 
 <h2 align="center">🚀My BaekJoon & GitHub Rating</h2>
 
-<p align="left">
+<div align="center">
 
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwyeol)](https://solved.ac/lwyeol)
   ![w00ye0l's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00ye0l&count_private=true)
   
-</p>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=Slice&color=e4c1f9&height=200&section=footer" />
