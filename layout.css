@@ -1,0 +1,14 @@
+.profile_img {
+  width: 200px;
+  height: 250px;
+  border-radius: 50%;
+  display: block;
+}
+
+.content {
+  display: flex;
+  transform: translateX(30%);
+  margin: -50px;
+  padding: -20px;
+  font-size: 20px;
+}
