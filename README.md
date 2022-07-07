@@ -20,13 +20,8 @@
 <p align="left">
 
   ![w00ye0l's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00ye0l&count_private=true)
-
-</p>
-
-<p align="right">
-
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwyeol)](https://solved.ac/lwyeol)
-
+  
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=Slice&color=e4c1f9&height=200&section=footer" />
