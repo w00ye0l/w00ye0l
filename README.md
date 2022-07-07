@@ -19,8 +19,9 @@
 
 <p align="center">
 
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwyeol)](https://solved.ac/lwyeol)
+  
   ![w00ye0l's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00ye0l&count_private=true)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwyeol)](https://solved.ac/lwyeol)
 
 </p>
 
