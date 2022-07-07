@@ -17,10 +17,14 @@
 
 <h2 align="center">🚀My BaekJoon & GitHub Rating</h2>
 
-<p align="center">
+<p align="left">
 
-  
   ![w00ye0l's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00ye0l&count_private=true)
+
+</p>
+
+<p align="right">
+
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwyeol)](https://solved.ac/lwyeol)
 
 </p>
