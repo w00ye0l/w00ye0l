@@ -17,12 +17,12 @@
 
 <h2>🚀My BaekJoon Rating</h2>
 
-<div>
+<p align="center">
 
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwyeol)](https://solved.ac/lwyeol)
   <img src="http://mazandi.herokuapp.com/api?handle=lwyeol&theme=dark"/>
 
-</div>
+</p>
 
 <h2>🚀My GitHub Rating</h2>
 
