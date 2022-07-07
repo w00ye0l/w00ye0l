@@ -15,17 +15,13 @@
 
 <br>
 
-<h2>🚀My BaekJoon Rating</h2>
+<h2 align="center">🚀My BaekJoon & GitHub Rating</h2>
 
 <p align="center">
 
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwyeol)](https://solved.ac/lwyeol)
-  <img src="http://mazandi.herokuapp.com/api?handle=lwyeol&theme=dark"/>
+  ![w00ye0l's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00ye0l&count_private=true)
 
 </p>
-
-<h2>🚀My GitHub Rating</h2>
-
-![w00ye0l's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00ye0l&count_private=true)
 
 <img src="https://capsule-render.vercel.app/api?type=Slice&color=e4c1f9&height=200&section=footer" />
