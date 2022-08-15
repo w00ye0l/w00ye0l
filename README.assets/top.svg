@@ -1,0 +1,25 @@
+
+            <svg width="854" height="200" viewBox="0 0 854 200" xmlns="http://www.w3.org/2000/svg">
+                <style>
+                            .text {
+						font-size: 90px;
+						font-weight: 700;
+						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+					}
+					.desc {
+						font-size: 20px;
+						font-weight: 500;
+						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+					}
+                            
+                        </style>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 200">
+                    
+                                
+                                <path fill="#e4c1f9"  fill-opacity="1" d="m 0 0 l 854 200 l 0 -200 l -854 0 z"></path>
+                </svg>
+                
+                        <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#6a4c93;" stroke="#none" stroke-width="1" >Lee Woo Yeol</text>
+                 
+            </svg>
+        
