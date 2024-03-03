@@ -1,7 +1,7 @@
 
 ![api](README.assets/top.svg)
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fw00ye0l&count_bg=%23CACACA&title_bg=%23C27CFF&icon=googlefit.svg&icon_color=%23AE00FF&title=VISITOR&edge_flat=true" align="left"/></a>
+<a align="end" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fw00ye0l&count_bg=%23CACACA&title_bg=%23C27CFF&icon=googlefit.svg&icon_color=%23AE00FF&title=VISITOR&edge_flat=true" align="left"/></a>
 
 <br><br>
 
@@ -37,6 +37,7 @@
 
 <div align="center">
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwyeol)](https://solved.ac/lwyeol)
+  
   ![w00ye0l's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00ye0l&count_private=true)
 </div>
 
